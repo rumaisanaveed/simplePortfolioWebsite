@@ -5,6 +5,10 @@
   height:1100px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /*Navbar*/
 
 nav {
@@ -428,7 +432,7 @@ background-color: #555;
 
 /*Container4*/
 
-#contact {
+#Contact {
   margin-top:0px;
   font-size: 60px;
   margin-left: 400px;
